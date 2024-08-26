@@ -23,18 +23,17 @@ The purpose of this analysis is to evaluate the effectiveness of a logistic regr
 
 Results
 
-Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
+* Machine Learning Model 1: Logistic Regression Model
 
-•	Machine Learning Model 1: Logistic Regression Model
+* Accuracy score: 99%
 
-•	Accuracy: 0.99
-•	Precision:
-    o	Healthy Loans (0): 1.00
-    o  	High-Risk Loans (1): 0.86
-•	Recall:
-   o	Healthy Loans (0): 1.00
-   o	High-Risk Loans (1): 0.91
+    * Predicting Healthy loans (0): 1.00
+    * Predicting High-Risk loans (1): .85
 
+* Recall: 
+
+   * Predicting Healthy loans (0): 1.00
+   * Predicting High-Risk loans (1): .92
 
 
 Summary
